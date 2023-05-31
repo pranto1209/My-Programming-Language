@@ -1,0 +1,98 @@
+import everything
+
+def masum ():
+{
+
+	# Code start here
+
+	int ab, bb, cb;
+
+	ab = 5;
+	bb = 10;
+	cb = ab + bb;
+	pf(cb);
+
+	int pp;
+	pp = 2^4;
+	pp = pp ++;
+	pf(pp);
+
+	if((98 % 2) == !0)
+	{
+		98 + 2;
+	}
+	elif (4 + 5)
+	{
+		99;
+	}
+	else
+	{
+		101;
+	}
+
+	switch (4)
+	{
+		case 1:
+			1+1;
+		case 2:
+			2+1;
+		case 3:
+			3+1;
+		default:
+			10+1;
+	}
+
+	loop(1 < 5)
+	{
+		55;
+	}
+
+	loop(1, 5, 1)
+	{
+		555;
+	}
+
+	function pranto (int fa; int fb;)
+	{
+		int fc;
+		fa = 49;
+		fb = 2;
+		fc = fa * fb;
+		pf(fc);
+	}
+
+	array <int> arrname ( 5 );
+
+	class classname {
+		int cccc;
+	};
+
+	factorial(5);
+
+	min(4, 5);
+
+	max(4, 5);
+
+	gcd(4, 8);
+
+	lcm(3, 5);
+
+	isprime(97);
+
+	isprime(98);
+
+	pow(2, 4);
+
+	powmod(2, 4, 3);
+
+	mulmod(4 , 5, 11); 
+
+	sin(45);
+
+	cos(45);
+
+	tan(45);
+
+	log(3);
+
+}
